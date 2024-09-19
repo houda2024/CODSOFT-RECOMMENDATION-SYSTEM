@@ -50,24 +50,9 @@ You can download the dataset from [MovieLens](https://www.kaggle.com/datasets/gr
 ## Project Structure
 
 ```bash
-├── data/
-│   ├── ratings.csv            # User ratings
-│   ├── movies.csv             # Movie details (title, genre)
-│   └── other_datasets.csv     # Additional data (not used)
-├── src/
-│   ├── recommendation.py      # Main script for recommendation system
-│   └── evaluation.py          # Model evaluation script
-├── README.md                  # Project documentation
-├── requirements.txt           # Dependencies list
-└── LICENSE                    # License information
 
 
 
 # Clone the repository
-git clone https://github.com/username/recommendation-system.git
+git clone https://github.com/houda2024/CODSOFT-RECOMMENDATION-SYSTEM.git
 
-# Navigate into the project directory
-cd recommendation-system
-
-# Install the required Python libraries
-pip install -r requirements.txt
