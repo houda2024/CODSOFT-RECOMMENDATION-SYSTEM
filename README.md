@@ -37,7 +37,7 @@ We use the **MovieLens** dataset, which consists of the following files:
 - **`tags.csv`**: Tags applied by users to various movies.
 - **`genome_scores.csv` & `genome_tags.csv`**: Represent additional movie information, but are not used in this project.
 
-You can download the dataset from [MovieLens](https://grouplens.org/datasets/movielens/) or other sources if needed.
+You can download the dataset from [MovieLens](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset) or other sources if needed.
 
 ### Dataset Files:
 - `ratings.csv`: **userId**, **movieId**, **rating**, **timestamp**
