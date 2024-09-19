@@ -42,7 +42,8 @@ You can download the dataset from [MovieLens](https://grouplens.org/datasets/mov
 ### Dataset Files:
 - `ratings.csv`: **userId**, **movieId**, **rating**, **timestamp**
 - `movies.csv`: **movieId**, **title**, **genres**
-- Additional data: `tags.csv`, `genome_scores.csv`, `genome_tags.csv` (not used in this task)
+-  `tags.csv`: **userId**, **movieId**, **tag** ,**timestamp**
+- Additional data: `genome_scores.csv`, `genome_tags.csv` (not used in this task)
 
 ---
 
